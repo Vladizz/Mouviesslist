@@ -1,11 +1,16 @@
 .header {
-    background: #496DDB;
-    padding: 20px calc(50% - 500px) 10px;
+  background: rgb(69, 8, 166);
+  padding: 20px calc(50% - 500px) 10px;
 }
 
 .header__title {
-    font-family: 'Luckiest Guy', cursive;
-    color: #FFEEDB;
-    font-size: 45px;
-    margin-left: 40px;
+  font-family: "Roboto";
+  color: #ffeedb;
+  font-size: 45px;
+  margin-left: 40px;
 }
+
+.moto {
+  font-size: 16px;
+}
+/* #496DDB */

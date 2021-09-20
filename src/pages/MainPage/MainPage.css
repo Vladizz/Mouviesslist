@@ -1,19 +1,23 @@
 .main-page__content {
-    padding: 42px calc(50% - 500px);
-    display: flex;
-    justify-content: space-between;
+  padding: 42px calc(50% - 500px);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .main-page__main-section {
-    padding-left: 40px;
-    box-sizing: border-box;
-    width: 60%;
+  padding-left: 40px;
+  box-sizing: border-box;
+  /* width: 60%; */
+  width: 400px;
 }
 
 .main-page__search-box {
-    margin-bottom: 35px;
+  margin-bottom: 35px;
 }
 
 .main-page__favorites {
-    width: 35%;   
+  /* width: 35%; */
+  width: 300px;
+  padding-left: 40px;
 }
